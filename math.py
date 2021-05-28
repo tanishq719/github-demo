@@ -1,5 +1,6 @@
 def add(x,y):
-	return x+y
+	temp = x+y
+	return temp
 
 def subtract(x,y):
 	temp = y - x
