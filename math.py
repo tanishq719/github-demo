@@ -20,3 +20,6 @@ def squareRoot(x):
 	
 def square(x):
 	pass
+
+def cube(x):
+	pass
